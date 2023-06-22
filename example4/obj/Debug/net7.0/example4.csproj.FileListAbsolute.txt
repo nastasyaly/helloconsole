@@ -1,0 +1,15 @@
+/Users/mac/Desktop/examples/example4/bin/Debug/net7.0/example4
+/Users/mac/Desktop/examples/example4/bin/Debug/net7.0/example4.deps.json
+/Users/mac/Desktop/examples/example4/bin/Debug/net7.0/example4.runtimeconfig.json
+/Users/mac/Desktop/examples/example4/bin/Debug/net7.0/example4.dll
+/Users/mac/Desktop/examples/example4/bin/Debug/net7.0/example4.pdb
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.AssemblyInfo.cs
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.dll
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/refint/example4.dll
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.pdb
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/example4.genruntimeconfig.cache
+/Users/mac/Desktop/examples/example4/obj/Debug/net7.0/ref/example4.dll
